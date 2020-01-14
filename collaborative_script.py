@@ -3,4 +3,4 @@ print(tekst)
 
 for znak in tekst:
     print(znak, "-", ord(znak))
-print('Zamknij Morde')
+
